@@ -1,0 +1,3 @@
+/home/sant/Documents/ordenarC/cmake-build-debug/CMakeFiles/ordenarC.dir
+/home/sant/Documents/ordenarC/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sant/Documents/ordenarC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
